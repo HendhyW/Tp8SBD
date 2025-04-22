@@ -12,7 +12,7 @@ export default function HomePage() {
     ];
 
     return (
-        <div className="bg-[#FFFFFF] text-white h-screen w-screen">
+        <div className="bg-[#FFFFFF] text-white h-screen w-screen py-40">
         <Navbar/>  
         <div className="w-[100%] h-[100%] m-auto pt-11">
         <CarouselNetlab slides={slides}/>
