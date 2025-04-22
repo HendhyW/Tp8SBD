@@ -41,16 +41,6 @@ export default function App() {
           </div>
         </div>
         <br></br>
-        <div  className="h-auto w-[95vw] m-auto  rounded-xl flex  items-center justify-left py-5 md:flex-row pt-40 ">
-          <img src={SBDLogo} className="h-64 w-64 m-auto" />
-          <div className="h-auto w-auto p-5 item-center justify-left">
-            <h1 className="text-5xl m-4 font-bold flex-col">I Hate Tiggers!!</h1>
-            <div className="bg-black rounded-3xl">
-              <h1 className="text-3xl m-4 text-white pt-3">Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos.</h1>
-              <h1 className="text-3xl m-4 text-white pb-3">Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos.</h1>
-            </div>
-          </div>
-        </div>
       </div>
     </div>
     

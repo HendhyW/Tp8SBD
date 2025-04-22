@@ -1,18 +1,4 @@
-// import Logo from "../assets/logo.svg";
-
-// export function Navbar(){
-//     return(
-//         <nav className="bg-black text-white flex justify-between p-4">
-//             <div className="container flex items-center justify-between">
-//                 <img src={Logo} className=""/>
-                
-//             </div>
-
-//         </nav>
-//     )
-// }
-
-import Logo from "../assets/logo.svg";
+import Logo from "../assets/Logo.svg";
 
 export default function Navbar() {
     return (
