@@ -6,7 +6,7 @@ import OSpage from "./components/pages/OSPage.jsx";
 
 export default function App() {
   return (
-
+      <div classname="w-screen h-screen">
         <BrowserRouter>
         <Routes>
 
@@ -20,6 +20,6 @@ export default function App() {
 
         </Routes>
       </BrowserRouter>
-    
+    </div>
   )
 }
