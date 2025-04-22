@@ -12,10 +12,10 @@ export default function Navbar() {
                 <span className="ml-4 text-xl font-semibold ">Network Laboratory</span>
             </div>
             <ul className="flex space-x-4 text-white text-xl">
-                <a href="#" className="text-white hover:text-[#525869] hover:scale-105" onClick={() => navigate("/")}>Home</a>
-                <a href="#sbd" className="text-white hover:text-[#525869] hover:scale-105" onClick={() => navigate("/sbd")}>SBD</a>
-                <a href="#dmj" className="text-white hover:text-[#525869] hover:scale-105" onClick={() => navigate("/dmj")}>DMJ</a>
-                <a href="#os" className="text-white hover:text-[#525869] hover:scale-105" onClick={() => navigate("/os")}>OS</a>    
+                <a className="text-white hover:text-[#525869] hover:scale-105" onClick={() => navigate("/")}>Home</a>
+                <a className="text-white hover:text-[#525869] hover:scale-105" onClick={() => navigate("/sbd")}>SBD</a>
+                <a className="text-white hover:text-[#525869] hover:scale-105" onClick={() => navigate("/dmj")}>DMJ</a>
+                <a className="text-white hover:text-[#525869] hover:scale-105" onClick={() => navigate("/os")}>OS</a>    
             </ul>
         </nav>
     );
